@@ -1,0 +1,6 @@
+{
+  "name": "Filamer Feedback",
+  "description": "Campus office and academic department feedback portal featuring 5-star ratings and essay evaluations for Filamer Christian University.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
